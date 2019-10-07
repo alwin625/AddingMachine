@@ -1,3 +1,7 @@
+// Alwin Tomy- CSE 360
+// Simple calculator that adds and subtracts as well as
+// shows the history of the calculations
+
 package cse360assign2;
 
 public class AddingMachine {
